@@ -6,7 +6,7 @@ I am Gagandeep, working on Statistics, Algorithms and Software. Take a look at s
 
 - **LFortran** - LFortran is a modern open-source (BSD licensed) interactive Fortran compiler built on top of LLVM. Working with **[Ondrej Certik](https://github.com/certik)** on adding new features to the compiler like, `select-case`, `pointers`, `arrays` and much more.
 - **PyDataStructs** - PyDataStructs, as the name suggests is a python package for data structures and algorithms. Me and my team are working hard to add all the [features we have planned for its first version](https://github.com/codezonediitj/pydatastructs/wiki/Planned-Features-for-v0.0.1).
-- **BNN** - BNN is a simple, light weight deep learning framework with a specialisation aimed for Binarized Neural Networks. These days I am [stuck on finding the right algorithm](https://github.com/codezonediitj/BNN/pull/24) for computing derivatives of matrix multiplication operation. Just reach out to me if you have some ideas for this.
+- **BNN** - BNN is a simple, light weight deep learning framework with a specialisation aimed for Binarized Neural Networks. Right now, I am heading towards adding the operations for supporting MLPs and then with some data pre-processing features,basic MLPs should be easy to code. Just reach out to me if you want to work on this project.
 - **AdaBoost** - An implementation of AdaBoost algorithm with GPU support using CUDA. Would appreciate some help on this to get it done quickly. :-)
 
 ### Completed Projects
