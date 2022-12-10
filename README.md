@@ -25,10 +25,6 @@ See, you just increased the visitor count by one. Thanks.
 
 ![](https://komarev.com/ghpvc/?username=czgdp1807&color=blueviolet)
 
-### My Github Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=czgdp1807&count_private=true)
-
 <!--
 **czgdp1807/czgdp1807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
